@@ -16,6 +16,8 @@ Entendendo o EventEmitter
 >    - Buscar todos os listeners desse evento.
 >    - Chamar todos os listener.
 
+---------------------------------------------------------------------------------------------
+
 > Ao cadastrar um novo usuário, emite um evento para que seja mostrado uma mensagem de sucesso.
 ```sh
 const cadastrarNovoUsuario = () => {
