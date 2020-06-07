@@ -13,5 +13,5 @@ const cadastrarNovoUsuario = () => {
 }
 ```
 
-https://blog.matheuscastiglioni.com.br/criando-um-event-emitter
-Autor: Matheus Castiglioni
+> https://blog.matheuscastiglioni.com.br/criando-um-event-emitter
+> Autor: Matheus Castiglioni
